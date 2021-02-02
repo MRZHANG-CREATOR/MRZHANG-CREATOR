@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Zhang Pipi,a Front-end beginner
-不擅长https://image.baidu.com/search/detail?ct=503316480&z=&tn=baiduimagedetail&ipn=d&word=JavaScript&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=-1&hd=undefined&latest=undefined&copyright=undefined&cs=2443502536,3755706708&os=3517171636,2379875587&simid=0,0&pn=3&rn=1&di=175120&ln=1857&fr=&fmq=1612253230540_R&ic=0&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&is=0,0&istype=2&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%253A%252F%252Fwww.davevoyles.com%252Fwp-content%252Fuploads%252F2014%252F10%252FJavaScript-Logo-1024x1024.png%26refer%3Dhttp%253A%252F%252Fwww.davevoyles.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg%3Fsec%3D1614845230%26t%3D1aeda6c2887f77ba31276ecd63cab499&rpstart=0&rpnum=0&adpicid=0&force=undefined
-http://static.nodejs.cn/_static/img/favicon.png
-https://cn.vuejs.org/images/icons/favicon-32x32.png
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRZHANG-CREATOR&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+会用一点Html，Css，JavaScript，Nodejs，Vuejs，MongoDB
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRZHANG-CREATOR&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
